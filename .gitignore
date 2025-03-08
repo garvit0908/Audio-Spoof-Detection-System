@@ -1,0 +1,8 @@
+# Ignore all files
+*
+
+# Allow only Jupyter Notebook files
+!*.ipynb
+
+# Ensure .gitignore itself is tracked
+!.gitignore
